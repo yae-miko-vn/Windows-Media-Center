@@ -1,0 +1,16 @@
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center",4,"O:SYG:SYD:AI(A;CI;KA;;;WD)(A;CI;CCDCLCSWRPRC;;;IU)(A;CI;CCDCLCSWRPRC;;;SY)(A;CI;CCDCLCSWRPRC;;;BA)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Display Settings",4,"O:SYG:SYD:AI(A;CIID;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;SY)(A;CIID;CCDCLCSWRPRC;;;IU)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Settings",4,"O:SYG:SYD:AI(A;CIID;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;SY)(A;CIID;CCDCLCSWRPRC;;;IU)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Start Menu",4,"O:SYG:SYD:AI(A;CIID;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;SY)(A;CIID;CCDCLCSWRPRC;;;IU)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\VolumeDisplay",4,"O:SYG:SYD:AI(A;CIID;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;SY)(A;CIID;CCDCLCSWRPRC;;;IU)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Extensibility",4,"O:SYG:SYD:PAI(A;OICIIO;GA;;;CO)(A;;KR;;;IU)(A;OICIIO;GR;;;IU)(A;OICIIO;GA;;;SY)(A;;KA;;;SY)(A;OICIIO;GA;;;BA)(A;;KA;;;BA)(A;OICIIO;GR;;;BU)(A;;KR;;;BU)"
+
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Remote Controls",4,"O:SYG:SYD:AI(A;CI;CCDCLCSWRPRC;;;IU)(A;CI;CCDCLCSWRPRC;;;SY)(A;CI;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;BA)(A;CIID;CCDCLCSWRPRC;;;SY)(A;CIID;CCDCLCSWRPRC;;;IU)(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Service\Connection",4,"O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Service\Content Security",4,"O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Service\EPG",4,"O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Service\Recording",4,"O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
+"machine\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Media Center\Service\Video",4,"O:SYG:SYD:AI(A;CIID;KR;;;BU)(A;CIID;KA;;;BA)(A;CIID;KA;;;SY)(A;CIIOID;KA;;;CO)(A;CIID;KR;;;AC)"
