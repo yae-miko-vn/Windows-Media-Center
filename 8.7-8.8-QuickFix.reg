@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\PublisherPolicy\Default\v4.0_policy.6.0.ehRecObj__31bf3856ad364e35\1\6.3.0.0]
+"ConfigFilePath"="C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\policy.6.0.ehRecObj\\v4.0_6.3.0.0__31bf3856ad364e35\\policy.6.0.ehRecObj.config"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\PublisherPolicy\Default\v4.0_policy.6.0.Microsoft.MediaCenter.UI__31bf3856ad364e35\1\6.3.0.0]
+"ConfigFilePath"="C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\policy.6.0.Microsoft.MediaCenter.UI\\v4.0_6.3.0.0__31bf3856ad364e35\\policy.6.0.Microsoft.MediaCenter.UI.config"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Fusion\PublisherPolicy\Default\v4.0_policy.6.0.Microsoft.MediaCenter__31bf3856ad364e35\1\6.3.0.0]
+"ConfigFilePath"="C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\policy.6.0.Microsoft.MediaCenter\\v4.0_6.3.0.0__31bf3856ad364e35\\policy.6.0.Microsoft.MediaCenter.config"
